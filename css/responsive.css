@@ -13,6 +13,11 @@ html{
 	color: #0B9BB5;
 }
 
+img
+	{
+		border-radius: 50%;
+	{
+
 ul, nav{
 	list-style: none;
 }
