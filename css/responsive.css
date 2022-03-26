@@ -18,8 +18,7 @@ ul, nav{
 }
 
 a{
-	dispaly: flex;
-	flex-direction: row;
+	
 	text-decoration: none;
 	color: inherit;
 	cursor: pointer;
