@@ -21,6 +21,7 @@ a{
 	text-decoration: none;
 	color: inherit;
 	cursor: pointer;
+	grid: row;
 
 	opacity: 0.9;
 }
