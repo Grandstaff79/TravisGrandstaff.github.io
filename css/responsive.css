@@ -254,8 +254,7 @@ header{
 ---------------------*/
 
 .my-work{
-	display: flex;
-	flex-direction: row;
+	
 	background-color: #000;
 }
 
